@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "xyf123456",
+    "database": "xyf_api_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+08:00"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "xyf_api_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+08:00"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "xyf_api_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+08:00"
+  }
+}
